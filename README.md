@@ -1,4 +1,4 @@
-<img width="996" alt="pong-game-preview" src="https://github.com/user-attachments/assets/fc8e0ed0-c3e8-459c-82be-206fd4fc3701" /># 🏓 Pong Game
+# 🏓 Pong Game
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue.svg)
@@ -6,7 +6,7 @@
 
 A modern implementation of the classic Pong arcade game built with Pygame, featuring customizable visuals, power-ups, and various game modes.
 
-<img width="996" alt="pong-game-preview" src="https://github.com/user-attachments/assets/1ad53bc0-a8da-4e6f-97e8-615427d8498c" />
+<img width="200" alt="pong-game-preview" src="https://github.com/user-attachments/assets/1ad53bc0-a8da-4e6f-97e8-615427d8498c" />
 
 ## ✨ Features
 
