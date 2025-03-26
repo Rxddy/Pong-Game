@@ -6,7 +6,7 @@
 
 A modern implementation of the classic Pong arcade game built with Pygame, featuring customizable visuals, power-ups, and various game modes.
 
-<img width="350" alt="pong-game-preview" src="https://github.com/user-attachments/assets/1ad53bc0-a8da-4e6f-97e8-615427d8498c" />
+<img width="500" alt="pong-game-preview" src="https://github.com/user-attachments/assets/1ad53bc0-a8da-4e6f-97e8-615427d8498c" />
 
 ## ✨ Features
 
